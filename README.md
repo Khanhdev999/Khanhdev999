@@ -1,5 +1,6 @@
 # 💫About Me :
 👋 Hi there! My name is Nguyen Nhu Khanh. I am currently a student at the University of Greenwich, Vietnam.
+
 My major is Software Engineering.
 
 Here are some ideas to get you started:
@@ -31,8 +32,6 @@ Here are some ideas to get you started:
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Khanhdev999&icon=0&color=0)](https://visitcount.itsvg.in)
